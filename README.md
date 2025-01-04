@@ -30,23 +30,7 @@ The **Word Guessing Game** is a fun console-based game built in Java where the p
 
 5. If the player wants to keep playing, they can enter yes. To stop, they can type no.
 
-## Example Output
-==========================================================================================
-================================== WORD GUESSING GAME ====================================
-==========================================================================================
-Hint: The word starts with 'j' and ends with 'a'.
-Guess the word or keyword that are in java
-java
-Your guess was correct!
-Do you want to guess again? (yes/no): yes
-Hint: The word starts with 'p' and ends with 'e'.
-Guess the word or keyword that are in java
-package
-Your guess was correct!
-Do you want to guess again? (yes/no): no
-=============================================================================================
-============================== Thank You for Guessing the Words =============================
-=============================================================================================
+
 
 ## How It Works
 WordGuessingGame Class
